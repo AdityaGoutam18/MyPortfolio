@@ -1,0 +1,37 @@
+{
+  "portfolio": [
+    {
+      "image": "/portfolio/1/code-cast.gif",
+      "title": "Code-Cast",
+      "description": "Real-time code editor for coding practice and interviewing.It also has a video call feature.",
+      "Tech_stack": "Socket.io, WebRTC, Node.js, Express.js, React.js and MongoDB",
+      "url": "https://code-cast-frontend.vercel.app",
+      "github-frontend": "https://github.com/AdityaGoutam18/Code-Cast-frontend",
+      "github-backend": "https://github.com/AdityaGoutam18/Code-Cast-backend"
+    },
+    {
+      "image": "/portfolio/1/shoeshopping.gif",
+      "title": "Shopping Website",
+      "description": "Shoe shopping website with Authentication and cart functionality",
+      "Tech_stack": "Node.js, Express.js, React.js, and MongoDB",
+      "url": "https://shoes-shopping-eta.vercel.app/",
+      "github": "https://github.com/AdityaGoutam18/Shoping-Website"
+    },
+    {
+      "image": "/portfolio/1/AiResumeAnalyzer.gif",
+      "title": "Resume Analyzer",
+      "description": "Unlimited Resume Analyzer with feedback system",
+      "Tech_stack": "Html, Css, javascript",
+      "url": "https://personal-ai-resume-analyzer.netlify.app/",
+      "github": "https://github.com/AdityaGoutam18/TIC-TAC-TOE"
+    },
+    {
+      "image": "/portfolio/1/predico.gif",
+      "title": "Disease Predictor",
+      "description": "A Disease predictior Web Application which predict the disease by  provided sympotms.",
+      "Tech_stack": "Python, Django, NLM",
+      "url": "",
+      "github": "https://github.com/AdityaGoutam18/Disease-Predictor"
+    }
+  ]
+}
